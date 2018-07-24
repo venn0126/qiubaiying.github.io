@@ -1,6 +1,6 @@
 # Site settings
-title: Augus Venn's Blog
-SEOTitle: 牛小布的博客 | BY Blog
+title: 牛小布's Blog
+SEOTitle: 牛小布的博客 | BY Venn
 header-img: img/post-bg-desk.jpg
 email: venn221@gmail.com
 description: "Every failure is leading towards success."
@@ -17,7 +17,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 
 # SNS settings
-RSS: false
+RSS: true
 weibo_username:     田大妞的牛牛牛
 zhihu_username:     贱人甲
 github_username:    venn0126
