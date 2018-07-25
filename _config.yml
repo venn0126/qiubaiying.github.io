@@ -19,7 +19,7 @@ sidebar-avatar:img/avatar-m      # use absolute URL, seeing it's used in both `/
 # SNS settings
 RSS: true
 weibo_username:     venn0126
-#zhihu_username:     venn0126
+zhihu_username:     venn0126
 github_username:    venn0126
 facebook_username:  profile.php?id=100015936139079
 #jianshu_username:   e71990ada2fd
